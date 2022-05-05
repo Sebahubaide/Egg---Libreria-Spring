@@ -13,6 +13,7 @@ public class Autor {
     private String id;
     private String nombre;
     private Boolean alta;
+    private String atributo1;
 
     public Autor() {
     }
